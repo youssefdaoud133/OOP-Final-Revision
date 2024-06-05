@@ -503,7 +503,7 @@ Passing Objects to Methods (by Value vs by Reference)
    - c) Primitive data types are always passed by reference.
    - d) Primitive data types are always passed by value.
 
-**Answer:** a) Objects are always passed by value.
+**Answer:** a) Objects are always passed by value.(value here = object Reference)
 
 2. In Java, when an object is passed to a method, what is actually passed?
    - a) The object's reference/address
