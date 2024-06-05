@@ -335,7 +335,7 @@ more mcq
     - **Solution:** A) `0`
 
 8. **Which of the following is true about the usage of `this` keyword in a constructor?**
-    - A) It can be used to refer to any method of the class
+    
     - B) It can be used to call another constructor in the same class
     - C) It can be used to access static variables
     - D) It can be used to override a constructor
