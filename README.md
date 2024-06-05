@@ -15,7 +15,7 @@
 
 
 
-## Five SOLID Principles
+## OOP Principles
 
 - [Introduction to oop](./oop/introduction.md)  
 <!-- - [Open/Closed Principle (OCP)](./solid/ocp.md)  
