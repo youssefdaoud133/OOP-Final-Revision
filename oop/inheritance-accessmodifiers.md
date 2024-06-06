@@ -2,7 +2,7 @@
 
 [Part 1](https://youtu.be/vnzteHmCIg0?si=PhznmvrDmHlYvmZm)
 
-[Part 2](https://youtu.be/bI1vqMrIGlQ?si=_dGMFV5KJbscfuOX)
+[Part 2](https://youtu.be/ltuACF2NCh0?si=TWk5vYXMo5n2IK-o)
 
 # Remember
 
@@ -10,7 +10,7 @@
   <img src="../oopPhotos/Access modifiers.JPG" alt="Alt text" />
 </p>
 
-[Uml diagram](https://youtu.be/bI1vqMrIGlQ?si=_dGMFV5KJbscfuOX)
+[Uml diagram](https://youtu.be/6XrL5jXmTwM?si=34jlYDxspOVa-15E)
 
 بعد شوية اساله هحطلكم لينكات شرح لل Polymorphism
 
@@ -330,7 +330,7 @@ D) Derived static block
 
 [Part 2](https://youtu.be/kBpkPU0zkNk?si=TJYQMjl18nygPQ_K)
 
-[Part 3](https://youtu.be/kBpkPU0zkNk?si=CFzLc9UIuorwzfPa)
+[Part 3](https://youtu.be/mheL52HCGgE?si=BSlE43WiCeql76Pl)
 
 اتفرجت ؟ يلا بينا نكمل
 
