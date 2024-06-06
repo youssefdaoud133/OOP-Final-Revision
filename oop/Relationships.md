@@ -1,3 +1,9 @@
+# Relationships
+
+[Part 1](https://youtu.be/c-KSvbSoVW0?si=n8vvZUj7zVTY2o8n)
+
+[Part 2](https://youtu.be/JXzBz03szvI?si=DSRCXkZu06L-dF3z)
+
 1. Which of the following best describes association in Java?
    A) It is a "has-a" relationship between two classes.
    B) It is a "part-of" relationship between two classes.
