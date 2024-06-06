@@ -1,0 +1,4 @@
+4. What is the difference between overloading and overriding?
+Overloading is two or more methods having the same name but different parameters. It is solved during compile-time. Whereas, Overriding is an OOPs concept that allows sub-classes to have a specific implementation of a method already provided by its parent class. It is solved during runtime.
+
+امتي بيحصل لود للكلاسيس؟
