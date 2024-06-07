@@ -1,4 +1,4 @@
-Certainly! Here are three multiple-choice questions (MCQs) about the definitions of "creational," "structural," and "behavioral" in the context of design patterns in software engineering:
+
 
 1. **What is the primary focus of creational design patterns?**
 
