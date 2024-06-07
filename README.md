@@ -21,3 +21,4 @@
 - [Types of Relationships](./oop/Relationships.md)
 - [Abstraction](./oop/abstraction.md)
 - [SOLID Principles](./oop/solid.md)
+- [Design Patterns](./oop/Patterns.md)
