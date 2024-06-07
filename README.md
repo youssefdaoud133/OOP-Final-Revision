@@ -20,4 +20,4 @@
 - [inhiretence and access modefiers and polimerpysms ](./oop/inheritance-accessmodifiers.md)
 - [Types of Relationships](./oop/Relationships.md)
 - [Abstraction](./oop/abstraction.md)
-<!-- - [Dependency Inversion Principle (DIP)](./solid/dip.md) -->
+- [SOLID Principles](./oop/solid.md)
