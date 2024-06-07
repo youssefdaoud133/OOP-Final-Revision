@@ -19,5 +19,5 @@
 - [Introduction to oop](./oop/introduction.md)
 - [inhiretence and access modefiers and polimerpysms ](./oop/inheritance-accessmodifiers.md)
 - [Types of Relationships](./oop/Relationships.md)
-<!-- - [Interface Segregation Principle (ISP)](./solid/isp.md)
-- [Dependency Inversion Principle (DIP)](./solid/dip.md) -->
+- [Abstraction](./oop/abstraction.md)
+<!-- - [Dependency Inversion Principle (DIP)](./solid/dip.md) -->
