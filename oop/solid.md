@@ -91,8 +91,6 @@ D) Dependencies are inverted in the class hierarchy
 Here are five Java code examples that violate SOLID principles, write explanations on how they can be improved
 and write code to improve it
 
-Here are five Java code examples that violate SOLID principles, along with explanations on how they can be improved:
-
 1.
 
 ```java
