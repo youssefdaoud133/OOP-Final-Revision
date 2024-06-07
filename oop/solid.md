@@ -1,4 +1,4 @@
-لازم تتفرج هلي كل بلاي ليست دي
+لازم تتفرج علي كل بلاي ليست دي
 [SOLID Principles](https://youtube.com/playlist?list=PLwWuxCLlF_uevri_OpofVLXkRRFnZ7TSV&si=llpAPlS1GJduE1Go)
 
 <p align="center">
